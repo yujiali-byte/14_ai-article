@@ -7,6 +7,7 @@
 ## 阅读索引
 
 - [2026-11-07 · Do Artifacts Have Politics? — Langdon Winner](weekly/2026-11-07.md)（英文）
+- [2026-11-14 · Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction — Madeleine Clare Elish](weekly/2026-11-14.md)（英文）
 
 ## 归档约定
 
