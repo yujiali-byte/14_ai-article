@@ -9,6 +9,7 @@
 - [2026-11-07 · Do Artifacts Have Politics? — Langdon Winner](weekly/2026-11-07.md)（英文）
 - [2026-11-14 · Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction — Madeleine Clare Elish](weekly/2026-11-14.md)（英文）
 - [2026-11-21 · The Extended Mind — Andy Clark、David J. Chalmers](weekly/2026-11-21.md)（英文）
+- [2026-11-28 · Fairness and Abstraction in Sociotechnical Systems — Andrew D. Selbst 等](weekly/2026-11-28.md)（英文）
 
 ## 归档约定
 
